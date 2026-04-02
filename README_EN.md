@@ -1,3 +1,9 @@
+> ⚠️ This project is no longer maintained. Welcome to use **AQBot, a lightweight, high-performance cross-platform AI dialogue + AI gateway desktop client**, which is fully open source and has everything you need (dialogue, online search, compressed dialogue, multiple models, multiple service providers, gateway, knowledge base, memory, MCP, etc.).
+>
+> Open source address: https://github.com/AQBot-Desktop/AQBot
+>
+> ![](https://github.com/AQBot-Desktop/AQBot/raw/main/.github/images/1.png)
+
 <div align="center">
 
 <h1 align="center">🌻 ChatAny</h1>
